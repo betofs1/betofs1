@@ -7,6 +7,6 @@ Estudante e entusiasta de tecnologia, sempre buscando aprender mais sobre o mund
 - 🌱 Aprendendo mais sobre **NestJS** e **Typescript**.
 
 ## Conecte-se comigo
-[LinkedIn]((https://www.linkedin.com/in/valberto-ferreira/)) | [GitHub](https://github.com/betofs1)
+[LinkedIn](https://www.linkedin.com/in/valberto-ferreira/) | [GitHub](https://github.com/betofs1)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betofs1&show_icons=true)
